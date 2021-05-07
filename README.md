@@ -1,8 +1,8 @@
 # MERCI Code Repository
 
-This repository contains all the codes and scripts written for MERCI research (ASPLOS'21) @ SNU-ARC Lab, 2020
+This repository contains all the codes and scripts written for the MERCI project (ASPLOS '21) @ [SNU Architecture and Code Optimization (ARC) Lab](https://arc.snu.ac.kr), 2021.
 
-Please refer to the full paper at https://snu-arc.github.io/pubs/asplos21_merci.pdf
+Please refer to the full paper at https://snu-arc.github.io/pubs/asplos21_merci.pdf.
 <br />
 
 ### Dataset
@@ -86,5 +86,5 @@ $ ./run_all.sh
 ```
 
 ### Reproducing result in the paper
-To reproduce result in the paper, we recommend you to set up instance on Amazon Web Services (AWS) EC2.
+To reproduce the results in the paper, we recommend you to set up an instance on Amazon Web Services (AWS) EC2.
 > m5.8xlarge instance (16 Intel Xeon Platinum 8259CL CPU cores with 128GiB of DRAM)
