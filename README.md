@@ -1,6 +1,6 @@
 # MERCI Code Repository
 
-This repository contains all the codes and scripts written for the MERCI project (ASPLOS '21) @ [SNU Architecture and Code Optimization (ARC) Lab](https://arc.snu.ac.kr), 2021.
+This repository contains all the codes and scripts written for the MERCI project (ASPLOS '21) @ [SNU Architecture and Code Optimization (ARC) Lab](http://arc.snu.ac.kr), 2021.
 
 Please refer to the full paper at https://snu-arc.github.io/pubs/asplos21_merci.pdf.
 <br />
